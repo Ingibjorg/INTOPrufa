@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+        cout << "Hæ, þetta er Ingibjörg Ósk" << endl;
 	return 0;
 }
 

@@ -29,9 +29,9 @@ void spila( );
 int hrugufjoldi;
 
 //Hér byrjar aðalforritið:
-int main( )
-{
-	int val;
+int main( ){
+  cout << "Jon Reginbald Ivarsson" << endl; 
+     int  val;
 	do
 	{
 		cout << endl << endl << endl;
